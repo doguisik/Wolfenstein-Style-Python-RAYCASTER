@@ -2,8 +2,6 @@
 
 A Wolfenstein 3D / DOOM–inspired raycasting engine built entirely from scratch in Python — including hand-written sine, cosine, and square root functions (no `math` module). Rendering is accelerated with NumPy, windowing/input use `tkinter`, and textures use Pillow.
 
-Built for the *Principles of Programming* course by Layan Imseeh, Dogu Isik, and Yousef Aicha (April 2026).
-
 ## Features
 
 - Textured walls, floors, and ceilings
